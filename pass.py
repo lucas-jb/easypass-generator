@@ -10,4 +10,4 @@ def generator(length:int):
         passwd.append(random.choice(lista))
     return ''.join(passwd)
 
-print(generator(100))
+print(generator(16))
