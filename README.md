@@ -1,4 +1,4 @@
-# easypass-generator ( W O R K I N G . . . )
+# easypass-generator ( In Progress )
 Password generator in python.
 
 ```python
