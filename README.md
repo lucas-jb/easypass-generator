@@ -2,7 +2,7 @@
 Password generator in python.
 
 # Usage
-python3 passGenerator.py <length>
+python3 passGenerator.py "length"
 
 
 
