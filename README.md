@@ -1,5 +1,10 @@
-# easypass-generator ( In Progress )
+# easypass-generator
 Password generator in python.
+
+# Usage
+python3 passGenerator.py <length>
+
+
 
 ```python
 import random
