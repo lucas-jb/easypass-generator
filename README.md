@@ -2,9 +2,11 @@
 Password generator in python.
 
 # Usage
-python3 passGenerator.py "length"
+__python3 passGenerator.py *length*__
 
+![](./docs/demo.gif)
 
+# Code
 
 ```python
 import random
