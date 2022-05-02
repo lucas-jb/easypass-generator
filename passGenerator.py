@@ -1,7 +1,3 @@
-# easypass-generator ( In Progress )
-Password generator in python.
-
-```python
 import random
 import string
 import sys
@@ -33,4 +29,3 @@ print(''.join(passwd))
 
 if __name__ == "__main__":
     pass
-```
