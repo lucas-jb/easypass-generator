@@ -1,3 +1,13 @@
+##############################################################################
+#   EASY PASS GENERATOR                                        by lucas-jb   #
+##############################################################################
+#                                                                            #
+#   Usage: python3 passGenerator.py <length>                                 #
+#          <length> must be between 1 and 128                                #
+#          <length> must be an integer                                       #
+#                                                                            #
+##############################################################################
+
 import random
 import string
 import sys
@@ -26,3 +36,7 @@ for i in range(length):
     passwd.append(random.choice(characters))
 
 print(''.join(passwd))
+
+###############
+# By lucas-jb #
+###############
