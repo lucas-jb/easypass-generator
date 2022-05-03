@@ -26,6 +26,3 @@ for i in range(length):
     passwd.append(random.choice(characters))
 
 print(''.join(passwd))
-
-if __name__ == "__main__":
-    pass
